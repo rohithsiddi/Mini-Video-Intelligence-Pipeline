@@ -4,7 +4,7 @@ A simple pipeline that extracts frames from a video using FFmpeg, runs object de
 
 ## Prerequisites
 
-- Python 3.12+
+- Python
 - FFmpeg installed and on PATH (`brew install ffmpeg` on macOS)
 
 ## Setup
