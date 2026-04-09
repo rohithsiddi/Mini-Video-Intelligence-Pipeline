@@ -102,7 +102,7 @@ Sample output on the included video:
 
 A few observations from the results:
 - At 100k bitrate, detections drop from ~118 to 19 and only `person` is detected. Handbags and backpacks are missed entirely due to compression artifacts degrading fine detail.
-- RF-DETR correctly identifies handbags without confusing them with suitcases, which was a recurring misclassification with the previous model.
+- RF-DETR correctly identifies handbags without confusing them with suitcases, which was a recurring misclassification with the previous model (detr-resnet-50)
 - At 500k bitrate, `backpack` appears which is absent at higher quality, likely because compression changes texture in a way that shifts the prediction for some bags.
 
 ## Running Tests
