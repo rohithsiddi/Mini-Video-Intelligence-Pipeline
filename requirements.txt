@@ -1,0 +1,6 @@
+rfdetr>=1.1.0
+supervision>=0.25.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+PyYAML>=6.0
+pytest>=8.0.0

@@ -1,0 +1,1244 @@
+{
+  "video": "sample_video.mp4",
+  "fps": 1,
+  "model": "rfdetr-medium",
+  "total_frames": 11,
+  "frames": [
+    {
+      "frame": 1,
+      "timestamp_sec": 1.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1645,
+            224,
+            1918,
+            1075
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1163,
+            355,
+            1328,
+            832
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            995,
+            393,
+            1114,
+            737
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1387,
+            384,
+            1550,
+            817
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            649,
+            443,
+            782,
+            762
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            1554,
+            423,
+            1657,
+            713
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.88,
+          "bbox": [
+            1409,
+            461,
+            1505,
+            651
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            860,
+            444,
+            970,
+            710
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            489,
+            446,
+            591,
+            711
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            580,
+            414,
+            677,
+            706
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.79,
+          "bbox": [
+            1110,
+            475,
+            1173,
+            658
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.77,
+          "bbox": [
+            1503,
+            633,
+            1559,
+            767
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "timestamp_sec": 2.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            1019,
+            386,
+            1163,
+            763
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            498,
+            462,
+            599,
+            686
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            1264,
+            327,
+            1454,
+            904
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            820,
+            465,
+            914,
+            691
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.85,
+          "bbox": [
+            1633,
+            346,
+            1806,
+            885
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.83,
+          "bbox": [
+            682,
+            451,
+            777,
+            726
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.83,
+          "bbox": [
+            1422,
+            373,
+            1533,
+            742
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.82,
+          "bbox": [
+            1783,
+            400,
+            1884,
+            754
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            951,
+            423,
+            1039,
+            701
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.74,
+          "bbox": [
+            1173,
+            462,
+            1242,
+            672
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.73,
+          "bbox": [
+            614,
+            479,
+            691,
+            707
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.73,
+          "bbox": [
+            1432,
+            431,
+            1509,
+            599
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "timestamp_sec": 3.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1380,
+            214,
+            1710,
+            1074
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.9,
+          "bbox": [
+            909,
+            413,
+            1039,
+            722
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.89,
+          "bbox": [
+            1058,
+            373,
+            1227,
+            800
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            659,
+            471,
+            756,
+            704
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            504,
+            477,
+            580,
+            666
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.78,
+          "bbox": [
+            753,
+            478,
+            832,
+            676
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.77,
+          "bbox": [
+            579,
+            484,
+            659,
+            687
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.74,
+          "bbox": [
+            1297,
+            446,
+            1361,
+            686
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.73,
+          "bbox": [
+            1207,
+            430,
+            1279,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp_sec": 4.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.94,
+          "bbox": [
+            1496,
+            226,
+            1776,
+            1074
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            901,
+            343,
+            1106,
+            937
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1296,
+            414,
+            1411,
+            715
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            646,
+            481,
+            729,
+            687
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            1415,
+            434,
+            1500,
+            703
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.82,
+          "bbox": [
+            735,
+            482,
+            808,
+            660
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            1128,
+            431,
+            1231,
+            726
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            516,
+            484,
+            574,
+            652
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.8,
+          "bbox": [
+            1093,
+            446,
+            1155,
+            659
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.77,
+          "bbox": [
+            575,
+            489,
+            641,
+            671
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.75,
+          "bbox": [
+            1711,
+            758,
+            1836,
+            1010
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "timestamp_sec": 5.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1115,
+            350,
+            1292,
+            887
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            780,
+            395,
+            925,
+            828
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.9,
+          "bbox": [
+            1421,
+            397,
+            1562,
+            753
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            1563,
+            360,
+            1727,
+            865
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.83,
+          "bbox": [
+            653,
+            483,
+            730,
+            673
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            1012,
+            455,
+            1108,
+            696
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.77,
+          "bbox": [
+            1259,
+            657,
+            1325,
+            821
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.77,
+          "bbox": [
+            732,
+            485,
+            792,
+            649
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.75,
+          "bbox": [
+            956,
+            459,
+            1024,
+            673
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.74,
+          "bbox": [
+            518,
+            493,
+            564,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp_sec": 6.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1624,
+            353,
+            1784,
+            805
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1137,
+            423,
+            1222,
+            690
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1790,
+            387,
+            1919,
+            799
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            910,
+            384,
+            1045,
+            779
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            633,
+            424,
+            751,
+            766
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.85,
+          "bbox": [
+            1279,
+            393,
+            1401,
+            771
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.84,
+          "bbox": [
+            1254,
+            413,
+            1310,
+            695
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.82,
+          "bbox": [
+            786,
+            451,
+            873,
+            685
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            860,
+            459,
+            912,
+            659
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.76,
+          "bbox": [
+            591,
+            473,
+            643,
+            630
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.71,
+          "bbox": [
+            547,
+            494,
+            606,
+            650
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.71,
+          "bbox": [
+            1773,
+            631,
+            1831,
+            724
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.71,
+          "bbox": [
+            1342,
+            523,
+            1403,
+            612
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "timestamp_sec": 7.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.93,
+          "bbox": [
+            1417,
+            388,
+            1530,
+            732
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.93,
+          "bbox": [
+            1265,
+            402,
+            1379,
+            713
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.9,
+          "bbox": [
+            1071,
+            430,
+            1175,
+            725
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            559,
+            447,
+            658,
+            727
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            728,
+            458,
+            816,
+            668
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            817,
+            418,
+            919,
+            723
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            1796,
+            162,
+            1919,
+            1007
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.78,
+          "bbox": [
+            649,
+            493,
+            710,
+            650
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.71,
+          "bbox": [
+            1239,
+            510,
+            1286,
+            634
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp_sec": 8.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.94,
+          "bbox": [
+            1652,
+            346,
+            1809,
+            788
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.93,
+          "bbox": [
+            1449,
+            377,
+            1588,
+            756
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.9,
+          "bbox": [
+            1202,
+            320,
+            1409,
+            964
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            796,
+            454,
+            885,
+            694
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            1056,
+            446,
+            1143,
+            693
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.85,
+          "bbox": [
+            545,
+            466,
+            632,
+            700
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.83,
+          "bbox": [
+            689,
+            475,
+            764,
+            655
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.82,
+          "bbox": [
+            1367,
+            682,
+            1433,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "timestamp_sec": 9.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.95,
+          "bbox": [
+            1235,
+            303,
+            1580,
+            966
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            953,
+            399,
+            1090,
+            759
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1592,
+            303,
+            1854,
+            965
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1078,
+            379,
+            1221,
+            814
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.89,
+          "bbox": [
+            1816,
+            318,
+            1919,
+            825
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.88,
+          "bbox": [
+            1524,
+            653,
+            1579,
+            819
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            764,
+            466,
+            839,
+            667
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.83,
+          "bbox": [
+            674,
+            480,
+            736,
+            643
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.81,
+          "bbox": [
+            1196,
+            635,
+            1232,
+            738
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.81,
+          "bbox": [
+            539,
+            482,
+            616,
+            680
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.8,
+          "bbox": [
+            839,
+            490,
+            890,
+            627
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.76,
+          "bbox": [
+            624,
+            496,
+            676,
+            634
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.74,
+          "bbox": [
+            1066,
+            608,
+            1109,
+            685
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp_sec": 10.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.93,
+          "bbox": [
+            1101,
+            374,
+            1271,
+            822
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            850,
+            427,
+            953,
+            706
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.91,
+          "bbox": [
+            1272,
+            372,
+            1471,
+            822
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.9,
+          "bbox": [
+            967,
+            420,
+            1077,
+            743
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.89,
+          "bbox": [
+            547,
+            481,
+            615,
+            665
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            718,
+            471,
+            785,
+            652
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.82,
+          "bbox": [
+            612,
+            497,
+            659,
+            629
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.81,
+          "bbox": [
+            1050,
+            607,
+            1081,
+            683
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.76,
+          "bbox": [
+            1229,
+            615,
+            1268,
+            734
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.75,
+          "bbox": [
+            655,
+            485,
+            717,
+            634
+          ]
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "timestamp_sec": 11.0,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            1127,
+            396,
+            1277,
+            747
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.92,
+          "bbox": [
+            973,
+            415,
+            1109,
+            755
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.89,
+          "bbox": [
+            1567,
+            339,
+            1846,
+            944
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.88,
+          "bbox": [
+            903,
+            443,
+            999,
+            704
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            585,
+            484,
+            646,
+            650
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.87,
+          "bbox": [
+            780,
+            455,
+            860,
+            678
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.86,
+          "bbox": [
+            703,
+            483,
+            759,
+            638
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.76,
+          "bbox": [
+            649,
+            485,
+            701,
+            625
+          ]
+        },
+        {
+          "label": "person",
+          "confidence": 0.73,
+          "bbox": [
+            753,
+            490,
+            791,
+            615
+          ]
+        },
+        {
+          "label": "handbag",
+          "confidence": 0.73,
+          "bbox": [
+            1080,
+            595,
+            1110,
+            683
+          ]
+        }
+      ]
+    }
+  ]
+}

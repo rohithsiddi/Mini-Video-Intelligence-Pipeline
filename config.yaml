@@ -1,0 +1,8 @@
+video_path: sample_video.mp4
+fps: 1
+confidence_threshold: 0.7
+model: rfdetr-medium
+output_dir: output
+visualization:
+  save_annotated_frames: true
+  generate_annotated_video: true
